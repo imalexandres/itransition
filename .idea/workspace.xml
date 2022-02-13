@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea97bf60-00cf-46fa-8e6e-3e81b5073d4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DB/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/DB/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/blockUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/blockUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/removeUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/removeUser.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="24pyIMbmbJquEEwVCffswMigmyD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Server\data\htdocs\webApp\css" />
+      <recent name="C:\Server\data\htdocs\webApp\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Server\data\htdocs\webApp\libs" />
+      <recent name="C:\Server\data\htdocs\webApp\html" />
+      <recent name="C:\Server\data\htdocs\webApp\php" />
+      <recent name="C:\Server\data\htdocs\webApp" />
+      <recent name="C:\Server\data\htdocs\webApp\DB" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea97bf60-00cf-46fa-8e6e-3e81b5073d4b" name="Changes" comment="" />
+      <created>1644341742365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644341742365</updated>
+      <workItem from="1644341743433" duration="9331000" />
+      <workItem from="1644423594717" duration="16536000" />
+      <workItem from="1644494694146" duration="20053000" />
+      <workItem from="1644519709315" duration="12269000" />
+      <workItem from="1644582891843" duration="29406000" />
+      <workItem from="1644636129473" duration="1176000" />
+      <workItem from="1644670392374" duration="23208000" />
+      <workItem from="1644700443245" duration="2095000" />
+      <workItem from="1644705938359" duration="8931000" />
+      <workItem from="1644754173193" duration="4432000" />
+      <workItem from="1644761762555" duration="4730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
