@@ -22,7 +22,7 @@ if(isset($data['do_signup'])) {
 
     if($data['name'] == '') {
 
-        $errors[] = "Enter name";
+        $errors[] = "Enter username";
     }
 
 
@@ -63,6 +63,10 @@ if(isset($data['do_signup'])) {
     if(R::count('users', "email = ?", array($data['email'])) > 0) {
 
         $errors[] = "User with this email already exists!";
+    }
+    if(R::count('users', "name = ?", array($data['name'])) > 0) {
+
+        $errors[] = "User with this username already exists!";
     }
 
 

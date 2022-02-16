@@ -20,7 +20,7 @@ require_once "../DB/conn.php";
 <?php
 if(isset($_SESSION['logged_user'])) {
 
-    $sql = "SELECT * FROM Users";
+    $sql = "SELECT * FROM users";
 
     if($result = $conn->query($sql)){
         $rowsCount = $result->num_rows;
@@ -44,6 +44,9 @@ if(isset($_SESSION['logged_user'])) {
         }
         ?>
         </table>
+    <div class="text-center">
+      <button type="submit" formaction="messagesInfo.php" class="btn btn-warning btn-lg">Go to messenger!</button>
+    </div>
 </form>
 
 <?php

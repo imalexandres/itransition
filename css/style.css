@@ -2,3 +2,73 @@
     width: 500px;
     margin-left: 300px;
 }
+.btn-rounded {
+    border-radius: 20px;
+}
+.btn-rounded-min {
+    border-radius: 10px;
+}
+.scroll-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+}
+.bg-messages {
+    width: 600px;
+    margin: 70px auto auto;
+    border: 1px;
+}
+.hide {
+    display: none;
+}
+.hide + label ~ div{
+    display: none;
+}
+
+.hide + label {
+    padding: 0;
+    color: green;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.hide:checked + label {
+    color: red;
+    border-bottom: 0;
+}
+
+.hide:checked + label + div {
+    display: block;
+    background: #efefef;
+    -moz-box-shadow: inset 3px 3px 10px #7d8e8f;
+    -webkit-box-shadow: inset 3px 3px 10px #7d8e8f;
+    box-shadow: inset 3px 3px 10px #7d8e8f;
+    padding: 10px;
+}
+
+
+.demo {
+    margin: 5px 10px;
+}
+
+#blink {
+    -webkit-animation: blink 2s linear infinite;
+    animation: blink 2s linear infinite;
+    font-weight: bold;
+    color:  #F00;
+}
+
+@-webkit-keyframes blink {
+    0% { color: #F00; }
+    50% { color: #FBB; }
+    100% { color: #F00; }
+}
+
+@keyframes blink {
+    0% { color: #F00; }
+    50% { color: #FBB; }
+    100% { color: #F00; }
+}
